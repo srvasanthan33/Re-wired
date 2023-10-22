@@ -1,0 +1,29 @@
+ItemType,Brand,Model,Yearofmanufacture,Condition,Completeness,Datasecurity,RepairPotential,RecyclingPotential,MarketDemand,GeographicLocation,RecycledValue,ActualPrice
+Computer,Dell,Latitude E5470,2018,Working,Complete,Yes,Yes,Yes,High,India,8000,90000
+Smartphone,Apple,iPhone 13 Pro,2022,Working,Complete,Yes,Yes,Yes,High,India,6000,68400
+Television,Samsung,UN55NU7100,2020,Working,Complete,Yes,Yes,Yes,Medium,India,4000,39600
+Microwave,LG,LMC0771BD,2013,Working,Complete,No,No,Yes,Low,India,500,5760
+Vacuum cleaner,Dyson,V8 Animal,2021,Working,Complete,No,Yes,Yes,Medium,India,2000,19440
+Printer,HP,LaserJet Pro M404dn,2019,Working,Complete,No,Yes,Yes,Medium,India,1000,11520
+Monitor,Dell,UltraSharp U2720Q,2021,Working,Complete,Yes,Yes,Yes,Medium,India,2000,23040
+Gaming console,Sony,PlayStation 5,2022,Working,Complete,Yes,Yes,Yes,High,India,2500,30240
+Camera,Canon,EOS Rebel T7i,2020,Working,Complete,Yes,Yes,Yes,Medium,India,2200,26640
+Laptop,Lenovo,ThinkPad X1 Carbon,2021,Working,Complete,Yes,Yes,Yes,High,India,6000,68400
+Tablet,Samsung,Galaxy Tab S7,2022,Working,Complete,Yes,Yes,Yes,High,India,4000,45720
+Refrigerator,LG,LFXS26973D,2018,Working,Complete,Yes,No,Yes,Medium,India,7000,75600
+Dishwasher,Bosch,SHEM63W55N,2019,Working,Complete,Yes,No,Yes,Medium,India,3500,39600
+Coffee maker,Keurig,Elite,2021,Working,Complete,No,Yes,Yes,Low,India,500,7560
+Headphones,Sony,W1000XM4,2022,Working,Complete,Yes,Yes,Yes,High,India,2000,19440
+Blender,Vitamix,E310 Explorian,2020,Working,Complete,No,Yes,Yes,Medium,India,1000,11520
+Smartwatch,Garmin,Fenix 6X Pro Solar,2021,Working,Complete,Yes,Yes,Yes,High,India,2000,23040
+Refrigerator,Whirlpool,WRS325SDHZ,2017,Working,Complete,Yes,Yes,Yes,Medium,India,4000,45720
+Microwave,Panasonic,NSU696S,2015,Working,Complete,No,No,Yes,Low,India,450,5400
+Laptop,HP,Spectre x360,2021,Working,Complete,Yes,Yes,Yes,High,India,7000,75600
+Air conditioner,LG,LW8016ER,2020,Working,Complete,Yes,Yes,Yes,Medium,India,1400,15120
+Camera,Nikon,D3500,2019,Working,Complete,Yes,Yes,Yes,Medium,India,1800,19440
+Gaming console,Microsoft,Xbox Series X,2022,Working,Complete,Yes,Yes,Yes,High,India,3200,34080
+Blender,Ninja,BL610,2018,Working,Complete,No,Yes,Yes,Medium,India,360,3888
+Smartwatch,Apple,Watch Series 6,2022,Working,Complete,Yes,Yes,Yes,High,India,2200,26640
+Dishwasher,GE,GDT655SGJ0BB,2019,Working,Complete,Yes,No,Yes,Medium,India,2200,26640
+Printer,Epson,EcoTank E4760,2021,Working,Complete,No,Yes,Yes,Medium,India,1400,15120
+Toaster,Cuisinart,CP180P1,2020,Working,Complete,No,Yes,Yes,Medium,India,280,3168
